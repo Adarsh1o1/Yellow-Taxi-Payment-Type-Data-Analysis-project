@@ -26,11 +26,11 @@ We aim to determine whether **payment methods impact fare pricing** by focusing 
 ---
 
 ## 🛠️ Tools & Libraries  
-- **Python** 🐍  
+- **Python** 
 - **Pandas, NumPy** → Data preprocessing & analysis  
-- **Matplotlib, Seaborn** → Data visualization  
+- **Matplotlib** → Data visualization  
 - **SciPy, Statsmodels** → Hypothesis testing & statistical analysis  
-- **Jupyter Notebook / Kaggle** → Development environment  
+- **Kaggle Notebook** → Development environment  
 
 ---
 
@@ -54,7 +54,9 @@ We aim to determine whether **payment methods impact fare pricing** by focusing 
 ---
 
 ## 📈 Visualizations
-**  
+![Payment type vs Fare Amount Distribution AND Payment type vs Trip Distance Distribution](Images/download (1).png)
+![Preference of Payment Type](Images/download (2).png)
+![Payment Type and Passenger Count](Images/download (3).png)
 
 ---
 
@@ -79,8 +81,8 @@ We aim to determine whether **payment methods impact fare pricing** by focusing 
 
 ## ✨ Author  
 **Adarsh Kushwaha**  
-- 📧 [adarshkushawha52@gmail.com]  
-- 🌐 [x.com/adarsh1o1]  
+- 📧 [mailto:adarshkushawha52@gmail.com]  
+- 🌐 [https://x.com/adarsh1o1]  
 
 ---
 

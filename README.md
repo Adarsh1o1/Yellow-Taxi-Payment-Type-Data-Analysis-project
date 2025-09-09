@@ -26,7 +26,7 @@ We aim to determine whether **payment methods impact fare pricing** by focusing 
 ---
 
 ## 📦 Dataset
-- **[Newyork Taxi Trip Data](https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019))** 
+- **[Newyork Taxi Trip Data](https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019)** 
 
 ---
 

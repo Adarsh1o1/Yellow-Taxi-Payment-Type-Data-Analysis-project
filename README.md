@@ -25,6 +25,11 @@ We aim to determine whether **payment methods impact fare pricing** by focusing 
 
 ---
 
+## 📦 Dataset
+- **[Newyork Taxi Trip Data](https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019))** 
+
+---
+
 ## 🛠️ Tools & Libraries  
 - **Python** 
 - **Pandas, NumPy** → Data preprocessing & analysis  
@@ -54,9 +59,11 @@ We aim to determine whether **payment methods impact fare pricing** by focusing 
 ---
 
 ## 📈 Visualizations
-![Payment type vs Fare Amount Distribution AND Payment type vs Trip Distance Distribution](Images/download (1).png)
-![Preference of Payment Type](Images/download (2).png)
-![Payment Type and Passenger Count](Images/download (3).png)
+![Payment type vs Fare Amount Distribution AND Payment type vs Trip Distance Distribution](https://github.com/Adarsh1o1/Yellow-Taxi-Payment-Type-Data-Analysis-project/blob/main/Images/download.png?raw=true)
+
+![Payment Type and Passenger Count](https://github.com/Adarsh1o1/Yellow-Taxi-Payment-Type-Data-Analysis-project/blob/main/Images/download%20(2).png?raw=true)
+
+![Preference of Payment Type](https://github.com/Adarsh1o1/Yellow-Taxi-Payment-Type-Data-Analysis-project/blob/main/Images/download%20(1).png?raw=true)
 
 ---
 
